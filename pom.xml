@@ -96,6 +96,7 @@
 		<module>xchange-abucoins</module>
 		<module>xchange-acx</module>
 		<module>xchange-anx</module>
+		<module>xchange-bankera</module>
 		<module>xchange-bibox</module>
 		<module>xchange-binance</module>
 		<module>xchange-bitbay</module>
@@ -143,6 +144,7 @@
 		<module>xchange-coinsuper</module>
 		<module>xchange-dsx</module>
 		<module>xchange-dragonex</module>
+		<module>xchange-dvchain</module>
 		<module>xchange-exmo</module>
 		<module>xchange-exx</module>
 		<module>xchange-examples</module>
