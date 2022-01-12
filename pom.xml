@@ -38,7 +38,7 @@
 		<version.knowm.xchart>3.5.2</version.knowm.xchart>
 		<version.lombok>1.18.2</version.lombok>
 		<version.powermock>2.0.0-RC.1</version.powermock>
-		<version.qos.logback>1.2.3</version.qos.logback>
+		<version.qos.logback>1.2.7</version.qos.logback>
 		<version.reflections>0.9.11</version.reflections>
 		<version.slf4j>1.7.25</version.slf4j>
 		<version.crypto>3.5.0</version.crypto>
